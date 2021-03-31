@@ -1,0 +1,46 @@
+# Pendahuluan
+Mana yang ada lebih dahulu: memasak, menulis, berpakaian atau berkota?
+
+	Buku ini berusaha menjadi praktik Islamic Worldview, berusaha. Mengenalkan pendekatan berbasis agama untuk menyelesaikan masalah perubahan iklim. Pendekatan ini berusaha mengawinkan kembali antara sains dan agama, yang sempat terpisah melalui proses renaisans. Tidak semua agama bisa dikawinkan kembali dengan sains tentunya, dan pilihan ini saya kembalikan ke pribadi masing-masing. Poin penting lainnya dari pendekatan ini adalah menyadari bahwa agama sudah mengatur krisis ini sejak jauh-jauh hari (Buccailism).
+Saya akan mencoba menulis dari kondisi teknologi kota post-modern, cycle back ke arah teknologi kota klasik tanpa menghilangkan esensi dari progres modernitas. Tulisan ini mungkin agak menjengkelkan bagi pembaca sekular, tapi seiring berjalannya waktu saya harap hal ini akan lebih maklum.
+
+## Piramida Teknologi	
+	Agak aneh jika kita membutuhkan sebuah buku untuk membakukan apa itu teknologi kota. Sebagaimana kita juga tidak membutuhkan penjelasan saat ini mengenai apa itu teknologi informasi, teknologi mesin. Namun hal ini juga berhubungan dengan \emph{Piramida Teknologi}. Piramida Teknologi menunjukkan tingkat kemutakhiran suatu teknologi.
+	Kemutakhiran teknologi kota sudah mencapai tahap natural dalam Piramida Teknologi, atau setidaknya vital atau invisible (tidak terlihat). Kota sudah ada sejak manusia berhenti mencari bahan makanan dari alam dan mulai menetap dengan adanya pertanian. Tugas dari ahli teknologi kota selanjutnya dalam pengembangan teknologi adalah meningkatkannya ke dalam tahap natural. Kota sudah menjadi tidak terlihat (The Invisible City, meskipun saya ragu penulisnya memaksudkan invisible sebagai bagian dari piramida teknologi), dampak yang ditimbulkan juga melebihi jumlah mereka yang tinggal di kota. Semua orang terdampak teknologi kota. Bayangan penduduk kota kecil (desa) untuk mendapat hidup lebih layak, meninggalkan orang-orang tua untuk hidup di pedesaan. Meskipun tidak banyak, persentase penduduk yang bekerja di sektor pertanian terus menurun (dengan meningkatnya produktifitas pula).
+	Penulis piramida teknologi berfikir kalau tidak semua teknologi bisa dan perlu sampai ke tingkat yang lebih tinggi. Ibarat anak, teknologi yang ada di bawah piramida adalah anak yang baru lahir sedangkan teknologi yang sudah ada di puncak adalah teknologi yang matang. Kita mungkin berpikir untuk menikah dengan yang ada di tengah piramida, tidak terlalu muda tidak terlalu tua. 
+	Untuk kasus teknologi kota sendiri, peran perencana perlu untuk setidaknya menurunkan tingkat invisibel (peran buku ini) ke dalam tahap yang lebih bisa diinovasikan oleh penggunanya. Bagaimana caranya? pertanyaan itu yang perlu dijawab buku ini. Keselarasan teknologi dengan kehidupan kita sehari-hari menjadikan teknologi itu menghilang dari pikiran kita (invisible). Meskipun kota sudah mencapai tingkat invisible atau natural, kita perlu melihat sejarah perkembangannya untuk bisa menentukan dimana teknologi ini mulai bermasalah. Satu yang jelas adalah dikenalnya revolusi industri. Kota yang sudah lestari dari sananya menjadi bentuk permukiman yang tidak menyenangkan, hal ini adalah permasalahan yang dihadapi perencana awal-awal. Semacam Ebenezer Howard dengan garden city-nya. Ada sejarah panjang yang akan dibahas pada bagian \"Reaksi terhadap revolusi Industri\".
+	Segala sesuatunya adalah alam. Kota juga termasuk alam. Segala hal dimulai dari Sang Pencipta, lalu muncullah ciptaan. Segalanya terbagi menjadi Sang Pencipta dan ciptaan. Ciptaan ada yang bagian dari alam, ada yang bukan, jika kita memahami alam sebagai apa yang bisa dipahami manusia (karena ciptaan yang bukan alam juga memiliki alamnya tersendiri). Tujuan dari tulisan ini adalah untuk meningkatkan apresiasi bahwa kota adalah teknologi yang sudah luar biasa, kita hanya terlalu tidak menyadarinya.
+	Bagaimana pengembangan yang bisa dilakukan masyarakat pengguna teknologi kota untuk meningkatkan kualitas teknologi ini? Kita bisa tengok bagaimana penjelasan von Hippel terhadap inovasi pengguna (user innovation). Kualitas teknologi kota menentukan kualitas hidup warganya. Setiap orang adalah bagian dari terbentuknya teknologi kota yang berkualitas.
+	Ada batas antara menjadi ahli, professional dan amatir. Menjadi ahli membutuhkan banyak waktu professional, menjadi professional membutuhkan penerimaan pasar, menjadi amatir membutuhkan sedikit pengetahuan. Tujuan tulisan ini bukan untuk menjadikan amatir kelestarian menjadi profesional, tetapi memperbanyak jumlah amatir. Pertanyaannya apa amatir bisa memberikan perubahan di dunia nyata? Tulisan ini juga bertujuan untuk mengingatkan ahli dan professional untuk mendistribusikan pengetahuannya tentang kota dan kelestarian kepada amatir.
+	Dunia sudah berada dalam tahap lestari jauh lebih lama dibanding pembangunan lestari itu sendiri. Kota sudah ada jauh lebih lama dibanding internet. Ahli-ahli kota sudah lebih dulu banyak dibutuhkan sebagaimana ahli internet sekarang.
+	Tujuan membangun teknologi kota bisa bermacam macam, salah satunya adalah kelestarian (keberlanjutan). Sebagaimana sudah dijelaskan bahwa keberlanjutan perlu partisipasi aktif dari masing-masing individu. Tidak cukup hanya dilakukan aktor ahli atau aktor negara. Perlu ada pendalaman soal kompleksitas perannya terhadap kelestarian. Kelestarian bisa menjadi pintu masuk atau tujuan akhir dari perencanaan skenario. Perencanaan skenario terbagi menjadi 3 bagian, skenario normatif, skenario analitis dan skenario eksploratoris. Skenario normatif adalah skenario yang dijadikan pegangan pelaku pembangunan baik negara atau aktor lainnya. Skenario analitis adalah apa yang dihitung para analis perencanaan dan ahli-ahli teknokratis lainnya. Skenario eksploratoris melebar luas membayangkan skenario-skenario yang mungkin terjadi. Ketiganya bisa dilakukan dengan partisipasi. Apa pentingnya inklusi dan partisipasi? Indonesia negara besar dan beragam, banyak kemungkinan suara masuk dibanding suara eksisting yang benar-benar diakomodasi secara politis. Ada 270 juta penduduk, diproyeksikan menjadi 310 juta pada tahun 2045. Indonesia saat ini menjadi negara terbanyak populasi ke-4 dunia. Kedepannya justru akan diperkirakan turun karena rasio pertumbuhan penduduk negara-negara di Benua Afrika sangat besar. Hal itu tidak menjadi masalah jika yang diperhitungkan adalah pendapatan perkapita.
+	
+## Analisis Fungsi
+
+Kota bisa diibaratkan sebuah fungsi. Memiliki input dan output. Buku ini mencoba membahas sebagian fungsi teknologi kota. Buku ini tidak berusaha menjelaskan seluruh fungsi kota, meskipun itu sesuatu yang mungkin baik untuk dicapai. Tetapi hanya sebagian saja.
+
+## Konstrual
+
+manusia memiliki batas pemahaman seberapa jauh secara konkrit bisa menjelaskan sesuatu. Apa yang abstrak bagi sebagian kalangan bisa menjadi konkrit pada kalangan lain.
+
+## Benefit of constraint
+All human inherently have equal access to happiness.
+
+## Ahli Kota
+Bayangkan dengan kematian tenaga medis saat pandemi ini.
+Tubuh manusia juga pada dasarnya adalah "teknologi" natural alam, yang dipinjamkan untuk dipertanggungjawabkan penggunaannya di kemudian hari.
+
+# Praktik
+
+## Cara Kerja Lahan
+	Hal yang juga menjadi perhatian adalah bagaimana lahan bekerja. Lahan tidak hanya bekerja untuk aspek keuangan, tetapi juga lingkungan dan sosial. Lahan tidak hanya bekerja dalam bentuk absolut (posisinya secara kordinat geografis), tetapi juga dalam hubungan relatif (posisinya terhadap benda-benda lain). Secara relatif lahan ada yang berada di kota dan bukan berada di kota. Kota bisa dipahami sebagai permukiman manusia dalam bentuk apapun. Satu unit rumah di pedalaman Amazon adalah kota, bagian dari kota. Begitu pula London, New York dan Jakarta.
+	
+## Menuju Kelestarian
+	Kelestarian (sustainability) baru bisa dicapai jika seluruh orang memahami bagaimana hidup lestari. Hal ini bukanlah sesuatu yang harusnya dikuasai hanya oleh para ahli, pengetahuan akan hidup lestari perlu memasyarakat berikut bagaimana aplikasinya. Baru pada tahap ini, hasil aksi masyarakat akan memunculkan (emerge) kelestarian pada tingkat global.
+	Masyarakat dalam pengertian society, bukan public. Pemerintah termasuk society.
+	Tidak ada yang salah dari ahli kelestarian, hanya saja dalam sistem yang lebih dianggap kompleks, butuh aksi dari seluruh partisipan untuk mencapai kelestarian. Tugas dari ahli kelestarian juga termasuk memasyarakatkan kelestarian, jika dipahami dengan sederhana. Seperti teknologi kota. Kita tidak bisa memahami sebelum bisa menyampaikannya kepada anak kelas \textbf{4 SD}. Artinya juga kita belum bisa mencapainya sebelum anak kelas 4 SD melaksanakannya.
+	Segala sesuatu akan kembali kepada kondisi bagaimana ia berasal. Manusia terlahir lemah, seiring bertumbuh menjadi lebih kuat, seiring menua kembali melemah. Begitu juga kehidupan, meskipun tidak sama antara kelemahan pertama dengan kelemahan kedua. Begitu juga peradaban. Manusia menulis di atas batu pada awalnya, kemudian beralih ke kertas, kemudian ke batu lagi (besi).
+
+## Membahas Kebertahanan
+	Kebertahanan (resiliency) adalah kapasitas suatu sistem untuk bertahan dan menanjak kembali setelah terkena beban tekanan atau guncangan. Apakah penting untuk membahas kebertahanan disini, rasanya tidak sepenting kelestarian.
+	
